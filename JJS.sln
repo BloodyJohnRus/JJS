@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JJS", "JJS.csproj", "{9CEFB12E-BB4C-45F8-B71F-0F7499758B71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CEFB12E-BB4C-45F8-B71F-0F7499758B71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CEFB12E-BB4C-45F8-B71F-0F7499758B71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CEFB12E-BB4C-45F8-B71F-0F7499758B71}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{9CEFB12E-BB4C-45F8-B71F-0F7499758B71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CEFB12E-BB4C-45F8-B71F-0F7499758B71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CEFB12E-BB4C-45F8-B71F-0F7499758B71}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABEB7759-9361-48E9-84E2-921A439C3FED}
+	EndGlobalSection
+EndGlobal
